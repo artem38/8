@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    padding: 5px;
+    background-color: #FF7600;
+}
+h3 {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    color: #01939A
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+img {
+    height: 400px;
+    
+
+   
+}
+footer p {
+    background-color: #FF7600;
+    color: #01939A;
+    padding: 5px;
+    text-align: center;
+    font-size: 23px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    border: 10px double black;
+    border-radius: 8px;
+    background-color: orange;
+    text-align: center;
+    font-size: 30px;
+    }
+    
+    
+.serdce {margin-left: 400px;}
